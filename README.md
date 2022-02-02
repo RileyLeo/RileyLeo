@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **leowaiyei@gmail.com**
 
-- ⚡ Fun fact **I suck at everything I do**
+- ⚡ Fun fact **I trying lol**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

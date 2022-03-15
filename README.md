@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I trying lol** 
 
-- [Personal Portfolio Website](https://rileyleo.github.io){:target="\_blank"}
+- [Personal Portfolio Website](https://rileyleo.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

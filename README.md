@@ -8,7 +8,8 @@
 - 📫 How to reach me **leowaiyei@gmail.com**
 
 - ⚡ Fun fact **I trying lol**
-- <a herf="https://rileyleo.github.io" target="blank">Personal Portfolio Website</a>
+
+- [Personal Portfolio Website](https://rileyleo.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

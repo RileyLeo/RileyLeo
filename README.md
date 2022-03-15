@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rileyleo&label=Profile%20views&color=0e75b6&style=flat" alt="rileyleo" /> </p>
 
-- 🌱 I’m currently learning **Web Dev**
+- 🌱 I’m currently learning **more dev stuff**
 
 - 📫 How to reach me **leowaiyei@gmail.com**
 

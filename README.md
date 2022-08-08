@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **leowaiyei@gmail.com** 
 
-- ⚡ Fun fact **I am a meme driven individual** 
+- ⚡ Fun fact **I do things for memes and obligations** 
 
 - [Personal Portfolio Website](https://rileyleo.github.io)
 
